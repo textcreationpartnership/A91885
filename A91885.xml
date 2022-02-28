@@ -1,0 +1,197 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Office of Adresses and Encounters: where all people of each rancke and quality may receive direction and advice for the most cheap and speedy way of attaining whatsoever they can lawfully desire. Or, the only course for poor people to get speedy employment, and to keep others from approaching poverty, for want of emploiment. To the multiplying of trade, the advancement of navigation, and establishing this famous city of London in a more plentifull and flourishing condition than ever, as is earnestly desired, and shall be diligently endeavoured by a wel-willer of hers Henry Robinson.</title>
+            <author>Robinson, Henry, 1605?-1664?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91885</idno>
+            <idno type="STC">Wing R1677</idno>
+            <idno type="STC">Thomason E613_10</idno>
+            <idno type="STC">ESTC R203369</idno>
+            <idno type="EEBO-CITATION">99863339</idno>
+            <idno type="PROQUEST">99863339</idno>
+            <idno type="VID">115534</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91885)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115534)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 94:E613[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Office of Adresses and Encounters: where all people of each rancke and quality may receive direction and advice for the most cheap and speedy way of attaining whatsoever they can lawfully desire. Or, the only course for poor people to get speedy employment, and to keep others from approaching poverty, for want of emploiment. To the multiplying of trade, the advancement of navigation, and establishing this famous city of London in a more plentifull and flourishing condition than ever, as is earnestly desired, and shall be diligently endeavoured by a wel-willer of hers Henry Robinson.</title>
+                  <author>Robinson, Henry, 1605?-1664?</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Matthew Simmons next doore to the Golden Lyon in Aldersgate street,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "7ber 29".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Commercial agents --  England --  London --  Early works to 1800.</term>
+               <term>Poor --  England --  Services for --  Early works to 1800.</term>
+               <term>Employment agencies --  England --  Early works to 1800.</term>
+               <term>London (England) --  Directories --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-02</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:115534:1" rendition="simple:additions"/>
+            <p>The Office of ADRESSES AND ENCOVNTERS: Where all people of each Rancke and Quality may receive direction and ad<g ref="char:EOLhyphen"/>vice for the moſt cheap and ſpeedy way of attaining whatſoever they can lawfully deſire.</p>
+            <p>OR, The only Courſe for poor people to get ſpeedy employment, and to keep o<g ref="char:EOLhyphen"/>thers from approaching poverty, for want of EMPLOIMENT.</p>
+            <p>To the multiplying of Trade, the advancement of Navigation, and eſtabliſh<g ref="char:EOLhyphen"/>ing this famous City of LONDON in a more plentifull and flouriſhing Condition than ever, as is earneſtly deſired, and ſhall be diligently endeavou<g ref="char:EOLhyphen"/>red by a Wel-willer of Hers</p>
+            <p>HENRY ROBINSON.</p>
+            <p>
+               <hi>London,</hi> printed by <hi>Matthew Simmons</hi> next doore to the Golden Lyon in <hi>Alderſgate ſtreet,</hi> 1650.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:115534:2"/>
+            <pb facs="tcp:115534:2"/>
+            <head>To all ſuch as ſincerely deſire the Reliefe of the Poor, with the accomodation of the wealthy, and are truly cordiall to the proſperity and wel-fare of the City of London in particular, as no little condu<g ref="char:EOLhyphen"/>cing to the Security, Plenty, and Glory of this Na<g ref="char:EOLhyphen"/>tion in Generall.</head>
+            <p>
+               <seg rend="decorInit">I</seg>T is eaſily apprehended what great advantage accures, and what multitudes of buſineſſes are daily diſpatched by Mer<g ref="char:EOLhyphen"/>chants, and others, meeting upon the Exchange; and ſpea<g ref="char:EOLhyphen"/>king to one another about ſome particular buſineſſes on<g ref="char:EOLhyphen"/>ly: but of how much more accommodation and diſpatch, it would yet amount to, if not only every one of thoſe Merchants, but all others beſides might know whether to goe to be ſatisfied concerning all manner of their Affairs, hath not as yet entered into our thoughts; much leſſe been ſeriouſly conſidered on, other<g ref="char:EOLhyphen"/>wiſe, it would never have been kept ſo long from being put in Execution; our own exceeding benefit would have taught us the practice of it.</p>
+            <p>And yet all this is to be compaſſed by ſuch a Regiſter of Addreſſes as wee ſpeak of; Oh the ſtupidity of this Nation, if not of Man-kind, that boaſts it ſelfe to be Conſtituted an abſolute Tyrant over the whole Creation: Certainly it muſt be notoriouſly degenerated, if not beſotted, that is be<g ref="char:EOLhyphen"/>come ſo unable to help it ſelfe: The very bruit beaſts in many reſpects ap<g ref="char:EOLhyphen"/>prehend better their owne Advantages, and are more dextrous at the pra<g ref="char:EOLhyphen"/>ctiſe of them. How many rare diſcoveries have beene long<g ref="char:punc">▪</g> ſince made unto this Nation, for better ordering the Churches, and Government of the Common-wealth, which yet by moſt men are held Hereticall, and for the moſt part obſtructed becauſe ſo few are at leiſure to ſearch into the depth and glory of them: But I will leave theſe high Concernments unto ſuch Perſons for whoſe Sphear they are more proper, and fall upon Conſiderations leſſe troubleſome, and more parallel to my owne private Condition.</p>
+            <p>We find by Experience that Multitudes of people, of all ſorts, both Han<g ref="char:EOLhyphen"/>dicrafts, Artificers, Manufactors, and others, are brought to poverty and beggery, becauſe they doe not timely meet with any one to Set and con<g ref="char:EOLhyphen"/>tinue
+<pb n="2" facs="tcp:115534:3"/>
+them at Worke; And yet at the very ſame time, we like wiſe meete with multitudes of others, both Merchants and Shop-keepers af all Cal<g ref="char:EOLhyphen"/>lings, that cannot furniſh their Cuſtomers ſo cheape and ſpeedily as were to be deſired, becauſe either they cannot preſently get Work-folk, or elſe not at ſuch cheap rates as to make a benefit thereof.</p>
+            <p>Now if ſuch as have occaſion or deſire to ſet poor people on work: and poore people that deſire continually to be kept at work; knew where to find one another at all times, they ſhould never be neceſſitated to be idle; And being all the week long ſet at work, they would earn more at a low rate, then in working 3. or 4. or 5. dayes in a weeke only, at a higher rate, and ſo might afford their work-manſhip cheaper unto the Merchants and Shop-keepers, and they unto their Cuſtomers conſequently, which would be the life of Trade.</p>
+            <p>And this great reliefe unto the poore, and advantage to the encreaſe of Trade, is infallibly ſecured by this Regiſter of Adreſſes, this common Center of Intelligence, from whence all perſons may forth with be dire<g ref="char:EOLhyphen"/>cted, and receive ſatisfaction, and encounter in whatſoever they can law<g ref="char:EOLhyphen"/>fully deſire; For although ſo many ſeverall Arts, Trades, and Callings as are requiſite to the Conſtitution of Cities, and Common-wealths, as ſo many parts and members of ſo great a Corporation, are purpoſely intro<g ref="char:EOLhyphen"/>duced, to be of mutual ſuccour and aſſiſtance to each others occurrences; Yet, ſince moſt of them are ſcituate ſome diſtance from one another, often<g ref="char:EOLhyphen"/>times unknown, &amp; in number infinite; There is more than a ſeeming want unto the perfection of humane ſociety, that as yet there never was any publique place appointed which might have ſerved as a Treaſury, or A<g ref="char:EOLhyphen"/>bridgment of all Accommodations deſireable.</p>
+            <p>And although ſeverall great Politicians of former ages, have touched hereon as a thing they deemed neceſſary for compleating their Common<g ref="char:EOLhyphen"/>wealths: yet it is no where more neceſſary than in this of ours, ſo aboun<g ref="char:EOLhyphen"/>ding in People, and ſo aptly Scituated for Trade and Negotiation; eſpe<g ref="char:EOLhyphen"/>cially, in that the multitude of Perſons with whom our Affaires oblige us to deale, renders our dealing more difficult, and confuſed, than in Coun<g ref="char:EOLhyphen"/>treys or Cities leſſe populous, and of ſmaller Traffique; much of our time, for want whereof, being ſpent in making ſearch, through an in<g ref="char:EOLhyphen"/>digeſted multitude both of Perſons, and things, which for the moſt part doe leaſt preſent themſelves, when moſt ſought after; even like two men, who in ſeeking after, happen to follow each other, and ſo can never meete, though at other times they meet often unexpectedly, when their bufineſſe requires it not: and all this comes to paſſe onely for want of Order.</p>
+            <p>
+               <pb n="3" facs="tcp:115534:3"/>Thus we ſee how man, the onely helpleſſe creature of the whole Cre<g ref="char:EOLhyphen"/>ation, ſtands in need of ſo many ſeverall perquiſites, in Order to his well-being, whether in point of Security, Food, or Rayment, as that he is compelled unto a Co-habitation with others.</p>
+            <p>He cannot make himſelfe happy alone; he can neither protect, feede, nor cloath himſelfe alone; but muſt be beholding to others for each of theſe Accommodations: And out of this reſpect, Man-kind found it abſolutely neceſſary to live together in Cities, and other populous places, where each one might be conduceable, and ſubſervient unto an others neceſſities.</p>
+            <p>Now that Man-kind, might not be longer thought conſtituted, in a more unhappy Condition, than the Irrational and Bruitiſh Creatures, after a Revolution of ſo many Ages and thouſands of yeares; It hath pleaſed God, in theſe later times, to make ſome men Inſtruments of very great diſcoveries, whereby the ſtate of Man-kind hath already, and may be much more meliorated; Amongſt which, the Invention of an Office, or Regiſter of Adreſſes and Encounters, wil not be found one of the leaſt; neither in relation to particular men, who thereby may with the greateſt expedition that this world affords, be ſatisfied concerning whatſoever they deſire. Nor as it regards the publique Magiſtrate, the Powers, who, I will be bold to ſay, may make thereof ſuch an In<g ref="char:EOLhyphen"/>ſtrument or Engine, both for the ſecuring of themſelves, and the hap<g ref="char:EOLhyphen"/>py eſtating of a Nation in Peace, Plenty, and Contentation, to per<g ref="char:EOLhyphen"/>petuity, as hitherto was never known to be enjoyed by any: But this is <hi>Arcanum Imperij:</hi> It may yet a while reſt in reſerve, and for the preſent, I ſhall only inſiſt upon more inferiour Advantages, and thoſe branched out but into ſome few Particulars, which this Regiſter of Adreſſes will undenyably gratifie withall, both the poore and weal<g ref="char:EOLhyphen"/>thier ſort, to the great encreaſe of Trade, and facilitating all peoples Negotiations.</p>
+            <p>The only way to prevent the multiplying of poor people, is forth<g ref="char:EOLhyphen"/>with to give all opportunities, and improve all Advantages, that may be, unto all manner of people, to relieve themſelves by their own labour and induſtry, without loſſe of time, or expence of mo<g ref="char:EOLhyphen"/>ney; the rather, in that wee finde a great cauſe of beating down the price of poore mens labour, is, becauſe ſuch poore people are not acquainted with other peoples wants, beſides their own; they have hitherto had no meanes to come to the ſpeedy know<g ref="char:EOLhyphen"/>ledge of ſuch perſons as ſtand as much in neede of poore mens labours, as the poor people doe of rich mens moneyes; and there<g ref="char:EOLhyphen"/>fore
+<pb n="4" facs="tcp:115534:4"/>
+the poore mens ſeeking is rather a begging, than a bargain<g ref="char:EOLhyphen"/>ing for employment; which rich men take advantage of, to the daily more and more undervaluing poore mens paines, and la<g ref="char:EOLhyphen"/>bours: But when the rich, as well as the poore mens occaſions, and neceſſities, are equally knowne to one another, the poor will be able to treat with more reputation, and get more indifferent and advantagious prices, both for their worke-manſhip and la<g ref="char:EOLhyphen"/>bour.</p>
+            <p>And whereas at preſent, poore people, and others, ſpend much time, in running up and down, from one place to another to ſeeke employment, and ſell their worke; If they repaire unto this Office, they ſhall either be directed forthwith to one that wants ſuch Artificers, Manufactors, Labourers, and others, or their Worke-manſhip; Or if they but leave their names, with the place of their abode, what employment they deſire, and up<g ref="char:EOLhyphen"/>on what termes, in a Ticket at this Office, ſo ſoone as their turne comes they ſhall have notice of it; and till then they may keepe at home, and employ themſelves in ſuch manner, as may be moſt for their own benefit and improvement.</p>
+            <p>And to this purpoſe, in <hi>Threed-needle-ſtreet,</hi> over againſt the Caſtle Tavern, cloſe to the Old Exchange, in <hi>London,</hi> ſhall be kept particular Regiſters, of all manner of Adreſſes, to which all perſons are invited to repair, who deſire, either
+<list>
+                  <item>1. To buy or ſell out-right; to mortgage, take or let out to Farme, by Leaſe for terme of yeares, or Lives, or otherwiſe, Lands, or Hou<g ref="char:EOLhyphen"/>ſes, in any part of England.</item>
+                  <item>2. To buy, or ſell any kind of Wares or Merchandize.</item>
+                  <item>3. To take or deliver moneyes at Intereſt, upon ſecurity of Bond, Land, or Pawnes.</item>
+                  <item>4. To take or deliver moneyes by Exchange, for any part of England, or Forreign Countreyes,</item>
+                  <item>5. To take or let out Ships to Fraight, by the whole, or in part; or to lade peece Goods on them, for any Port or Ports of England, or Forraign Countries.</item>
+                  <item>6. To entertaine, or to be entertained, Profeſſors of the Liberall Scien<g ref="char:EOLhyphen"/>ces, and Languages, Chaplains, Secretaries, Tutors, Schoolmaſters, Gentlemen-<g ref="char:V">Ʋ</g>ſhers, Stewards, Butlers, Cookes, Barbers, Serving<g ref="char:EOLhyphen"/>men, or as Factors, Agents, or as Journeymen of any manner of occupations.</item>
+                  <item>
+                     <pb n="5" facs="tcp:115534:4"/>7. To entertaine, or to be entertained, waiting Gentlewomen, School<g ref="char:EOLhyphen"/>miſtriſſes, Nurſe-keepers, Nurſes, Chamber-maids, Darie-maids, Cooke-maids, or for any other kinde of lawfull ſervices.</item>
+                  <item>8. To buy or ſell Bonds, or Bills of debt upon rebate.</item>
+                  <item>9. To buy, or ſell Publique-faith money, of what ſort ſoever.</item>
+                  <item>10. To buy, or ſell Leaſes, or Annuities, whether in poſſeſſion, or Reverſion.</item>
+                  <item>11. To bee ſent, or ſend others abroad, into any of our Plantations.</item>
+                  <item>12. To employ, or be employed as Captaines, Maſters of Ships, Ma<g ref="char:EOLhyphen"/>ſters mates, Factors, Purſers, Boat ſwains, Surgeons, Gunners, Cookes, Pilots, or common Marriners.</item>
+                  <item>13. To buy, ſell, or hire Houſhold ſtuffe, Apparell, or any manner of Goods, at the ſecondhand.</item>
+                  <item>14. To take, or let out to hire, by Leaſe, or yearely Rent, Houſes, Lodgings, Ware houſes, or Sellers, within the Cities of <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> and <hi>Weſtminſter,</hi> as alſo Countrey-Houſes, neere adjoyning.</item>
+                  <item>15. To take, or deliver moneyes at Bottomarie, or upon returne of the Voyage, or Shipp, for any Port of <hi>England,</hi> or Forreigne Countreyes.</item>
+                  <item>16. Here likewiſe, may every one enquire after any thing that is loſt; and whoſoever ſhall give notice of any thing that is found, will not onely diſcharge a good conſcience, but bee rewarded for his paines, and in the mean time, ſhall ſee it Regiſtred in a Booke for that purpoſe, and if hee pleaſe, have a receipt thereof: and whenſoever he will call at this Office, be made acquainted what is be<g ref="char:EOLhyphen"/>come of it, whether ſtill remaining, or returned to the Proprietor thereof, and know who he is, &amp;c.</item>
+                  <item>17. Here, whoſoever deſires to travell, or make a Journey, may give in his name before hand, and have notice what other company there is, for any of the Principall Roades, or Townes of <hi>England,</hi> or any Forreign parts.</item>
+                  <item>18. Here you may know what Ships arrived lately from, and when any de<g ref="char:EOLhyphen"/>part for any port of <hi>England,</hi> or any Forreign parts, and with what goods they are laden.</item>
+                  <item>19. Hither may reſort ſuch poore people as deſire reliefe, and to know what meanes and Legacies are given to pious uſes; and ſuch as would wil<g ref="char:EOLhyphen"/>lingly meete with fit objects of their charity and Bounty.</item>
+                  <item>20. Such as deſire to diſpoſe of themſelves, or friends in Marriage, may here likewiſe be informed, what encounters there are to be had, both of Per<g ref="char:EOLhyphen"/>ſons and Portions.</item>
+                  <item>
+                     <pb n="6" facs="tcp:115534:5"/>21. If any perſon, have any manner of Wares, or Merchandize to ſell, let him direct them to this Office, and they ſhall be taken care of, and forth-with put to ſale, either for ready money, or at time, according as the Owner ſhall give order for his moſt advantage; and in the meane time, if hee pleaſe, be furniſh<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d with moneyes to ſerve his other occaſions, at a reaſonable rate: Finally,</item>
+                  <item>22. If any perſon, living in any part of <hi>England,</hi> deſire to have a<g ref="char:EOLhyphen"/>ny Merchandize, or neceſſaries bought fo<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> him in <hi>London,</hi> any Law-ſuit ſolicited, or any other honeſt bu<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ne<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſe looked after, and ta<g ref="char:EOLhyphen"/>ken care of in the ſaid City of <hi>L<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ndon,</hi> or Countrey adjoyn<g ref="char:EOLhyphen"/>ing, let him onely ſend the Particul<gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>, of his deſires, in a letter directed to the ſaid Office of Adreſſes, on <hi>Threed-needle-ſtreet,</hi> over againſt the Caſtle Tavern, cloſe to the Old Exchange in <hi>London,</hi> with promiſe to pay the charg<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s, his buſineſſe ſhall be diſpatched; and a ſpeedy accompt thereof returned him to his owne dwelling, or according to his direction without his comming up to <hi>London,</hi> troubling, or being beholding to any of his friends.</item>
+               </list>
+            </p>
+            <p>The poore, together with all others, will likewiſe reape this benefit, by this Office, in that it will much prevent retailing, which is but a higling of Commodities, to a greater quantity and value; whereas, if the Buyer buyes for his uſe, and to ſerve his petty Cuſtomers onely, and the Seller ſels to put himſelfe into money: both the buyer payes leſſe than hee ſhould get the ſame Commodity for, from a Retailer; And the Seller alſo, ſels for more than a Retailer would likely give him.</p>
+            <p>In briefe, the uſe of this Regiſter may extend as far as humane ne<g ref="char:EOLhyphen"/>ceſſity, which is little leſſe than infinite; and therefore,</p>
+            <p>If any perſon, ſollicitous of publique good, ſhall ſuggeſt any thing elſe, which this Office may particularly undertake, either for re<g ref="char:EOLhyphen"/>liefe of the Poore, or accommodation of the Rich, it ſhall be gladly entertained, and the Propounder reckoned amongſt the Benefactors of this Office.</p>
+            <p>The Poore ſhall have all theſe ſervices done for them in charity, and all others for ſix pence a time, or entry, ſo often as their turn is ſerved. And for this purpoſe, the ſaid Office ſhall be kept open every day (except the Lords day) from 8. of the Clock till 12. at Noone, and from 2. to 6. in the Evening, for entertaining all ſuch as ſhall have recourſe thereto.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
